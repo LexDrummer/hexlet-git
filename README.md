@@ -3,4 +3,4 @@ first line
 experiment with amend
 second line
 third line
-new line
+forth line
